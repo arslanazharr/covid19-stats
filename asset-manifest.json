@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/covid19-stats/static/css/main.c2cab247.css",
+    "main.js": "/covid19-stats/static/js/main.8e8aff80.js",
+    "index.html": "/covid19-stats/index.html",
+    "main.c2cab247.css.map": "/covid19-stats/static/css/main.c2cab247.css.map",
+    "main.8e8aff80.js.map": "/covid19-stats/static/js/main.8e8aff80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.8e8aff80.js"
+  ]
+}
